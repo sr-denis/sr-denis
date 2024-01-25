@@ -1,6 +1,6 @@
 ### Kim Denis
 
-`<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=sr-denis&show_icons=true&theme=tokyonight">`
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=sr-denis&show_icons=true&theme=tokyonight">
 
 <!--
 **sr-denis/sr-denis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
